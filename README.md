@@ -11,8 +11,9 @@ This repository will hold my assignments and future projects!
 # About Me
 ## My Interests
 I really love to go on picnics and spend time outdoors! I **LOVE** a great hike with scenic views. I make sure to go on a picnic or hike at _least_ once a week, but usually end up going more times.
-I also love to read and actually finished **50 books** last year. I especially love literary fiction and science fiction. SOme books that stook out to me were **Stoner** by John Williams and **The Three Body Problem**. I love all books, but I think the perspective that science fiction books are especially interesting because they propose thought experiments into what the future of tech could look like.
+I also love to read and actually finished **50 books** last year! I especially love literary fiction and science fiction. Some books that stook out to me were **Stoner** by John Williams and **The Three Body Problem** by Cixen Liu. I love all books, but I think the perspective that science fiction books are especially interesting because they propose thought experiments into what the future of tech could look like.
 In terms of my academic interests, I love to learn about Computer Science, but I'm also pretty intersted in Philosophy as well. Lately, a specific interst of mine is how AI is related to the environment and how we might be able to lessen the impacts of Chat GPT inquiries.
+
 ![Stoner](https://target.scene7.com/is/image/Target/GUEST_8ebb297f-bd91-44e6-8322-3d812a24b53b?wid=300&hei=300&fmt=pjpeg)
 ![The Three Body Problem](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg)
 
