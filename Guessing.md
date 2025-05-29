@@ -1,7 +1,7 @@
 # Random Guessing Game Flowchart
 #### This diagram illustrates the logical steps a game would take that generates a random number from 1 - 100 and prompts the user for guesses.
 
-
+```mermaid
 flowchart TD
     A[Start] --> B{Generate a random number 1 - 100}
     B --> C{Prompt the user for a number}
